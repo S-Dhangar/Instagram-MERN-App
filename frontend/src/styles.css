@@ -1,0 +1,48 @@
+.container {
+    max-width: 350px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .logo {
+    background-image: url(https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80px;
+    margin-bottom: 30px;
+  }
+  form input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  form button {
+    background-color: #3897f0;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+  }
+  .divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 30px 0;
+  }
+  .divider span {
+    flex: 1;
+    height: 1px;
+    background-color: #ddd;
+  }
+  a {
+    color: #3897f0;
+    text-decoration: none;
+  }
+  
